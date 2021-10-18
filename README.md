@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rully</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h1 align="left">Hi 👋, I'm Rully</h1>
+<h3 align="left">A passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rullyafrizal&label=Profile%20views&color=0e75b6&style=flat" alt="rullyafrizal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rullyafrizal" alt="rullyafrizal" /></a> </p>
-
 - 🔭 I’m currently working on [DOT Indonesia](https://www.dot.co.id/) as an intern
 
 - 🌱 I’m currently learning **Golang and NOSQL Databases**
