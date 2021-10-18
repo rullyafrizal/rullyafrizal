@@ -2,7 +2,8 @@
 <h3 align="left">A passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rullyafrizal&label=Profile%20views&color=0e75b6&style=flat" alt="rullyafrizal" /> </p>
-- 🔭 I’m currently working on [DOT Indonesia](https://www.dot.co.id/) as an intern
+
+- 🔭 I’m currently working as an intern on [DOT Indonesia](https://www.dot.co.id/)
 
 - 🌱 I’m currently learning **Golang and NOSQL Databases**
 
@@ -23,7 +24,3 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rullyafrizal&count_private=true&show_icons=true&theme=default)
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rullyafrizal&" alt="rullyafrizal" /></p>
