@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as an intern at [DOT Indonesia](https://www.dot.co.id/)
 
-- 🌱 I’m currently learning **Golang and NOSQL Databases**
+- 🌱 I’m currently learning **Golang, Typescript, Docker and NOSQL Databases**
 
 - 💬 Ask me about **Laravel**
 
