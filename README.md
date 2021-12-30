@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rullyafrizal&label=Profile%20views&color=0e75b6&style=flat" alt="rullyafrizal" /> </p>
 
-- 🔭 I’m currently working as an intern at [DOT Indonesia](https://www.dot.co.id/)
-
-- 🌱 I’m currently learning **Golang, Typescript, Docker and NOSQL Databases**
+- 🌱 I’m currently learning **Golang, Typescript, Docker and NOSQL Databases** and another whole lot about Backend
 
 - 💬 Ask me about **Laravel**
 
