@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on Projects using Go
 
-- 🌱 I’m currently learning Go, Microservices, Cloud and lots other of backend and devops world. 
+- 🌱 I’m currently learning Go, Microservices, Messaging Communication between Services, Cloud and lots other of backend and devops world. 
 
 - 👯 I’m looking to collaborate on Projects 
 
